@@ -1,0 +1,15 @@
+{
+  "author": "Mike Morrison",
+  "classifications": [ "Node", "Fable" ],
+  "name": "Simple Fable Node.js App",
+  "tags": {
+    "language": "F#",
+    "type": "project"
+  },
+  "identity": "Node.Fable.Template",
+  "groupIdentity": "node-fable",
+  "shortName": "node-fable",
+  "sourceName": "NodeFableTemplate",
+  // This allows using the `-n` option to create a new directory
+  "preferNameDirectory": true
+}
